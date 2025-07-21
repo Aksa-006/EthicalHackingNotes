@@ -9,7 +9,7 @@ I visited the official Kali Linux website at [https://www.kali.org/get-kali/](ht
 
 ### 2. Extracted Kali Image Using 7-Zip
 
-After the download, I used **7-Zip** to extract the file by right-clicking it and choosing either **Extract Here** or **Extract to folder**. The extracted folder contained:
+After the download, I used **7-Zip** (I had previously downloaded and installed 7-Zip from https://www.7-zip.org) to extract the file by right-clicking it and choosing either **Extract Here** or **Extract to folder**. The extracted folder contained:
 
 * A `.vbox` file (VirtualBox configuration)
 * A `.vdi` file (virtual hard disk)
