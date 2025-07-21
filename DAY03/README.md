@@ -13,7 +13,7 @@ After the download, I used **7-Zip** to extract the file by right-clicking it an
 
 * A `.vbox` file (VirtualBox configuration)
 * A `.vdi` file (virtual hard disk)
-  <img width="1319" height="670" alt="Screenshot 2025-07-22 011046" src="https://github.com/user-attachments/assets/cd4d7487-02fe-4ff6-8d3c-50513e31a72d" />
+  <img width="800" height="406" alt="Screenshot 2025-07-22 011046" src="https://github.com/user-attachments/assets/cd4d7487-02fe-4ff6-8d3c-50513e31a72d" />
 
 
 This meant I didn’t have to install Kali manually via ISO—it was a pre-configured virtual machine.
@@ -25,7 +25,7 @@ This meant I didn’t have to install Kali manually via ISO—it was a pre-confi
 I then downloaded and attempted to install **Oracle VirtualBox** from its [official site](https://www.virtualbox.org/). During installation, I encountered an error saying:
 
 > “Microsoft Visual C++ 2015 or later is required”
-<img width="1063" height="758" alt="Screenshot 2025-07-22 014649" src="https://github.com/user-attachments/assets/c171e503-fae6-4f30-827f-a21ba9bfef01" />
+<img width="800" height="406" alt="Screenshot 2025-07-22 014649" src="https://github.com/user-attachments/assets/c171e503-fae6-4f30-827f-a21ba9bfef01" />
 
 
 At first, I installed the **Microsoft Visual C++ 2013 Redistributable**, but it did not work with VirtualBox. I realized it was outdated and incompatible.
@@ -43,7 +43,7 @@ After launching VirtualBox, I clicked **“Add”**, navigated to the extracted 
 ### 5. Booted Up Kali VM
 
 I started the Kali VM from the VirtualBox interface. The status showed as **Running**, confirming that the virtual machine was successfully booted. After a short wait, Kali’s desktop interface appeared.
-<img width="1914" height="1195" alt="Screenshot 2025-07-22 013335" src="https://github.com/user-attachments/assets/8e10983c-788a-4ad3-85d0-b0bf6a93a7ad" />
+<img width="800" height="406" alt="Screenshot 2025-07-22 013335" src="https://github.com/user-attachments/assets/8e10983c-788a-4ad3-85d0-b0bf6a93a7ad" />
 
 
 ---
