@@ -9,7 +9,7 @@
 | Aaron-VS | [Aaron-VS](https://github.com/Aaron-VS) | 3 | FAIL |
 | Abel0606 | [Abel0606](https://github.com/Abel0606) | 3 | FAIL |
 | Umeshwarkumar | [Umeshwarkumar](https://github.com/Umeshwarkumar) | 3 | FAIL |
-| joshuazacharyjose | [joshuazacharyjose](https://github.com/joshuazacharyjose) | 3 | FAIL |
+| joshuazacharyjose | [joshuazacharyjose](https://github.com/joshuazacharyjose) | 3 | PASS |
 | EVAN-KS | [EVAN-KS](https://github.com/EVAN-KS) | 2 | FAIL |
 | Soumya-code-ai | [Soumya-code-ai](https://github.com/Soumya-code-ai) | 2 | FAIL |
 | DineshBabuRS | [DineshBabuRS](https://github.com/DineshBabuRS) | 1 | FAIL |
@@ -22,15 +22,15 @@
 | Alanjeorge2005 | [Alanjeorge2005](https://github.com/Alanjeorge2005) | 1 | FAIL |
 | SanMaria28 | [SanMaria28](https://github.com/SanMaria28) | 2 | FAIL |
 | shaundx5 | [shaundx5](https://github.com/shaundx5) | 1 | FAIL |
-| Patrick-Pio | [Patrick-Pio](https://github.com/Patrick-Pio) | 2 | FAIL |
+| Patrick-Pio | [Patrick-Pio](https://github.com/Patrick-Pio) | 2 | PASS |
 | Deanjb3 | [Deanjb3](https://github.com/Deanjb3) | 2 | FAIL |
-| ishaZaara | [ishaZaara](https://github.com/ishaZaara) | 3 | FAIL |
-| JoyAanchalRose | [JoyAanchalRose](https://github.com/JoyAanchalRose) | 2 | FAIL |
-| Ramya-9739 | [Ramya-9739](https://github.com/Ramya-9739) | 3 | FAIL |
+| ishaZaara | [ishaZaara](https://github.com/ishaZaara) | 4 | FAIL |
+| JoyAanchalRose | [JoyAanchalRose](https://github.com/JoyAanchalRose) | 3 | FAIL |
+| Ramya-9739 | [Ramya-9739](https://github.com/Ramya-9739) | 4 | FAIL |
 | Rachel-joy07 | [Rachel-joy07](https://github.com/Rachel-joy07) | 2 | FAIL |
 | sasmitabtech | [sasmitabtech](https://github.com/sasmitabtech) | 3 | FAIL |
 | nithin811 | [nithin811](https://github.com/nithin811) | 2 | FAIL |
-| Abishek-gitit | [Abishek-gitit](https://github.com/Abishek-gitit) | 4 | FAIL |
+| Abishek-gitit | [Abishek-gitit](https://github.com/Abishek-gitit) | 5 | FAIL |
 | NITHEE-11 | [NITHEE-11](https://github.com/NITHEE-11) | 3 | FAIL |
 | Nandana-19 | [Nandana-19](https://github.com/Nandana-19) | 2 | FAIL |
 | Kavin-cse | [Kavin-cse](https://github.com/Kavin-cse) | 3 | FAIL |
@@ -55,7 +55,7 @@
 | A-M-K-x | [A-M-K-x](https://github.com/A-M-K-x) | 1 | FAIL |
 | samuelbiju13 | [samuelbiju13](https://github.com/samuelbiju13) | 3 | FAIL |
 | joshuasantoshh | [joshuasantoshh](https://github.com/joshuasantoshh) | 1 | FAIL |
-| RichardRajuChirayath | [RichardRajuChirayath](https://github.com/RichardRajuChirayath) | 2 | FAIL |
+| RichardRajuChirayath | [RichardRajuChirayath](https://github.com/RichardRajuChirayath) | 2 | PASS |
 | Varun-Glitched | [Varun-Glitched](https://github.com/Varun-Glitched) | 3 | FAIL |
 | johnevin965 | [johnevin965](https://github.com/johnevin965) | 1 | FAIL |
 | Sartaj-IT | [Sartaj-IT](https://github.com/Sartaj-IT) | 2 | FAIL |
@@ -64,8 +64,8 @@
 | vedantjoshi18 | [vedantjoshi18](https://github.com/vedantjoshi18) | 2 | FAIL |
 | Melwin-Thomas | [Melwin-Thomas](https://github.com/Melwin-Thomas) | 3 | FAIL |
 | AlenSaijo | [AlenSaijo](https://github.com/AlenSaijo) | 3 | FAIL |
-| JohnJoby2006 | [JohnJoby2006](https://github.com/JohnJoby2006) | 3 | FAIL |
-| Sreesanth200677 | [Sreesanth200677](https://github.com/Sreesanth200677) | 3 | FAIL |
+| JohnJoby2006 | [JohnJoby2006](https://github.com/JohnJoby2006) | 4 | FAIL |
+| Sreesanth200677 | [Sreesanth200677](https://github.com/Sreesanth200677) | 4 | FAIL |
 | Ashweljohn | [Ashweljohn](https://github.com/Ashweljohn) | 4 | FAIL |
 | Tiswin-Saji | [Tiswin-Saji](https://github.com/Tiswin-Saji) | 2 | FAIL |
 | BasudevDileep | [BasudevDileep](https://github.com/BasudevDileep) | 2 | FAIL |
@@ -86,3 +86,5 @@
 | maxine-23 | [maxine-23](https://github.com/maxine-23) | 2 | FAIL |
 | Rhea-gracy | [Rhea-gracy](https://github.com/Rhea-gracy) | 2 | FAIL |
 | Stacydsouza | [Stacydsouza](https://github.com/Stacydsouza) | 1 | FAIL |
+| jfs1336 | [jfs1336](https://github.com/jfs1336) | 2 | FAIL |
+| Tom-boby | [Tom-boby](https://github.com/Tom-boby) | 4 | FAIL |
