@@ -59,8 +59,6 @@
 
 In **cybersecurity**, a **sandbox** is a **safe, isolated testing environment** used to run and analyze suspicious files, programs, or code without risking harm to the actual system or network.
 
----
-
 ### **Key Features of a Sandbox:**
 
 * **Isolated:** Runs separately from your main system.
@@ -68,16 +66,12 @@ In **cybersecurity**, a **sandbox** is a **safe, isolated testing environment** 
 * **Observation:** Allows monitoring of behavior like file changes, registry edits, or network activity.
 * **No Real Damage:** Even if the program is malicious, it can’t affect the host machine.
 
----
-
 ### **Common Uses in Cybersecurity:**
 
 1. **Malware analysis** – See how a virus behaves.
 2. **Testing suspicious email attachments** – Prevent phishing attacks.
 3. **Software testing** – Check how new applications behave.
 4. **Digital forensics** – Analyze threats post-attack.
-
----
 
 ### **Real-World Examples:**
 
@@ -87,59 +81,37 @@ In **cybersecurity**, a **sandbox** is a **safe, isolated testing environment** 
 
 ---
 In cybersecurity (and many other fields), two main kinds of analysis are often referred to as:
-
-1. Static Analysis
+**1.Static Analysis**
 Definition: Examining code, files, or software without running it.
-
 Purpose: To find vulnerabilities, backdoors, or malicious code.
-
 Used in: Malware analysis, code review, vulnerability detection.
-
-Example:
-Analyzing a malware's code or file structure without executing it.
-
+Example:Analyzing a malware's code or file structure without executing it.
 Tools: IDA Pro, PEStudio, strings command.
 
-2. Dynamic Analysis
+**2.Dynamic Analysis**
 Definition: Observing the behavior of a program while it’s running, often in a sandbox.
-
 Purpose: To detect real-time actions like system changes, file drops, or network calls.
-
 Used in: Malware behavior analysis, intrusion detection.
-
-Example:
-Running a suspicious file in a sandbox to watch what it does.
-
+Example:Running a suspicious file in a sandbox to watch what it does.
 Tools: Cuckoo Sandbox, Process Monitor, Wireshark.
 
 ----
-Microsoft Advanced Threat Analytics (ATA) is an on-premises platform that helps identify:
+**Microsoft Advanced Threat Analytics (ATA)** is an on-premises platform that helps identify:
+1.Malicious attacks
+2.Suspicious user behavior
+3.Known security issues in real time
 
-Malicious attacks
-
-Suspicious user behavior
-
-Known security issues in real time
-How It Works:
-ATA monitors network traffic and analyzes activities from domain controllers, using:
-
-Behavioral analytics
-
-Security event logs
-
-Deep packet inspection
-
-It then alerts security teams about potential threats like:
-
-Pass-the-Ticket or Pass-the-Hash attacks
-
-Privilege escalation
-
-Lateral movement
-
-Reconnaissance attempts
-
-Brute-force attacks
+**How It Works:**
+1.ATA monitors network traffic and analyzes activities from domain controllers, using:
+      i)Behavioral analytics
+      ii)Security event logs
+      iii)Deep packet inspection
+2.It then alerts security teams about potential threats like:
+           a. Pass-the-Ticket or Pass-the-Hash attacks
+           b. Privilege escalation
+           c. Lateral movement
+           d. Reconnaissance attempts
+           e. Brute-force attacks
 
 
 
