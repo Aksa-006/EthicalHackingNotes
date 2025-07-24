@@ -81,18 +81,27 @@ In **cybersecurity**, a **sandbox** is a **safe, isolated testing environment** 
 
 ---
 In cybersecurity (and many other fields), two main kinds of analysis are often referred to as:
+
 **1.Static Analysis**
 Definition: Examining code, files, or software without running it.
+
 Purpose: To find vulnerabilities, backdoors, or malicious code.
+
 Used in: Malware analysis, code review, vulnerability detection.
+
 Example:Analyzing a malware's code or file structure without executing it.
+
 Tools: IDA Pro, PEStudio, strings command.
 
 **2.Dynamic Analysis**
 Definition: Observing the behavior of a program while it’s running, often in a sandbox.
+
 Purpose: To detect real-time actions like system changes, file drops, or network calls.
+
 Used in: Malware behavior analysis, intrusion detection.
+
 Example:Running a suspicious file in a sandbox to watch what it does.
+
 Tools: Cuckoo Sandbox, Process Monitor, Wireshark.
 
 ----
