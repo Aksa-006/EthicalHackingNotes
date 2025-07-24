@@ -83,6 +83,7 @@ In **cybersecurity**, a **sandbox** is a **safe, isolated testing environment** 
 In cybersecurity (and many other fields), two main kinds of analysis are often referred to as:
 
 **1.Static Analysis**
+
 Definition: Examining code, files, or software without running it.
 
 Purpose: To find vulnerabilities, backdoors, or malicious code.
@@ -94,6 +95,7 @@ Example:Analyzing a malware's code or file structure without executing it.
 Tools: IDA Pro, PEStudio, strings command.
 
 **2.Dynamic Analysis**
+
 Definition: Observing the behavior of a program while it’s running, often in a sandbox.
 
 Purpose: To detect real-time actions like system changes, file drops, or network calls.
@@ -106,15 +108,18 @@ Tools: Cuckoo Sandbox, Process Monitor, Wireshark.
 
 ----
 **Microsoft Advanced Threat Analytics (ATA)** is an on-premises platform that helps identify:
+
 1.Malicious attacks
 2.Suspicious user behavior
 3.Known security issues in real time
 
 **How It Works:**
+
 1.ATA monitors network traffic and analyzes activities from domain controllers, using:
       i)Behavioral analytics
       ii)Security event logs
       iii)Deep packet inspection
+      
 2.It then alerts security teams about potential threats like:
            a. Pass-the-Ticket or Pass-the-Hash attacks
            b. Privilege escalation
